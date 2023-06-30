@@ -5,4 +5,4 @@ Just click on this link. <a href="dlafavre.github.io">dlafavre.github.io</a>
 ## Roadmap of future improvements.
 I'll add more projects and make things more interactive as I learn more.
 ## License Information
-<a href="https://github.com/dlafavre/dlafavre.github.io/blob/main/LICENSE"MIT License</a>
+<a href="https://github.com/dlafavre/dlafavre.github.io/blob/main/LICENSE">MIT License</a>
